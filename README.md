@@ -22,6 +22,6 @@ PPPPPPPPPP               OOOOOOOOO     NNNNNNNN         NNNNNNN        GGGGGG   
                                                                                     
                                                                                                                                                                      
                                                                                 
-<h2>Game - made with Python</h2>
+<h2>made with Python</h2>
 
                          
