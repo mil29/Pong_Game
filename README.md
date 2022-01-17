@@ -1,6 +1,4 @@
-# Classic Pong Game - made with  Python 
-
-                         
+# Classic Pong Game - made with  Python                       
  ____   ___  _   _  ____ 
 |  _ \ / _ \| \ | |/ ___|
 | |_) | | | |  \| | |  _ 
