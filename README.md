@@ -1,7 +1,10 @@
-# Classic Pong Game - made with  Python                       
+# Classic                          
  ____   ___  _   _  ____ 
 |  _ \ / _ \| \ | |/ ___|
 | |_) | | | |  \| | |  _ 
 |  __/| |_| | |\  | |_| |
 |_|    \___/|_| \_|\____|
+                         
+Game - made with Python                       
+
                          
