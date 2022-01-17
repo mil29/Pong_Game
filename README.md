@@ -1,7 +1,7 @@
 # Classic                          
 
-                                                                                    
-                                                                                    
+                                                                              
+<pre>                                                                                   
 PPPPPPPPPPPPPPPPP        OOOOOOOOO     NNNNNNNN        NNNNNNNN        GGGGGGGGGGGGG
 P::::::::::::::::P     OO:::::::::OO   N:::::::N       N::::::N     GGG::::::::::::G
 P::::::PPPPPP:::::P  OO:::::::::::::OO N::::::::N      N::::::N   GG:::::::::::::::G
@@ -18,16 +18,10 @@ PP::::::PP          O:::::::OOO:::::::ON::::::N      N::::::::N  G:::::GGGGGGGG:
 P::::::::P           OO:::::::::::::OO N::::::N       N:::::::N   GG:::::::::::::::G
 P::::::::P             OO:::::::::OO   N::::::N        N::::::N     GGG::::::GGG:::G
 PPPPPPPPPP               OOOOOOOOO     NNNNNNNN         NNNNNNN        GGGGGG   GGGG
+</pre>
                                                                                     
-                                                                                    
-                                                                                    
-                                                                                    
-                                                                                    
-                                                                                    
-                                                                                    
-
-
-
-Game - made with Python                       
+                                                                                                                                                                     
+                                                                                
+<h2>Game - made with Python</h2>
 
                          
