@@ -1,4 +1,4 @@
-# Classic                          
+# Classic Pong game writen in Python                           
 
                                                                               
 <pre>                                                                                   
